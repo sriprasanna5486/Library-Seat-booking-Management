@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "81787462477",
+    "project_id": "library-seat-booking-0823",
+    "storage_bucket": "library-seat-booking-0823.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81787462477:android:c9ccbfb80d620f00facd04",
+        "android_client_info": {
+          "package_name": "com.example.library_seat_booking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA02ZZX9Ta3m0o3uyWIH6OLzGT9mEJLmac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,25 @@
+seatId,floor,zone,x,y,status
+G-S001,Ground Floor,Reading Area,80,100,available
+G-S002,Ground Floor,Reading Area,160,100,available
+G-S003,Ground Floor,Reading Area,240,100,available
+G-S004,Ground Floor,Reading Area,320,100,available
+G-S005,Ground Floor,Reading Area,400,100,available
+G-S006,Ground Floor,Reading Area,480,100,available
+G-S007,Ground Floor,Reading Area,80,180,available
+G-S008,Ground Floor,Reading Area,160,180,available
+G-S009,Ground Floor,Reading Area,240,180,available
+G-S010,Ground Floor,Reading Area,320,180,available
+G-S011,Ground Floor,Reading Area,400,180,available
+G-S012,Ground Floor,Reading Area,480,180,available
+G-S013,Ground Floor,Reading Area,80,260,available
+G-S014,Ground Floor,Reading Area,160,260,available
+G-S015,Ground Floor,Reading Area,240,260,available
+G-S016,Ground Floor,Reading Area,320,260,available
+G-S017,Ground Floor,Reading Area,400,260,available
+G-S018,Ground Floor,Reading Area,480,260,available
+G-S019,Ground Floor,Reading Area,80,340,available
+G-S020,Ground Floor,Reading Area,160,340,available
+G-S021,Ground Floor,Reading Area,240,340,available
+G-S022,Ground Floor,Reading Area,320,340,available
+G-S023,Ground Floor,Reading Area,400,340,available
+G-S024,Ground Floor,Reading Area,480,340,available
